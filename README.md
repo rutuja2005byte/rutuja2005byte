@@ -1,10 +1,10 @@
 <h1 align="center">🌸 Rutuja</h1>
 <p align="center">
-  Web Developer • Problem Solver
+  Web Developer  • Problem Solver
 </p>
 
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="25385487" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">Programming Computer Frog GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/ai-grok-artificial-intelligence-computer-tech.gif" width="400" />
 </p>
 
 ---
@@ -30,6 +30,7 @@ HTML • CSS • JavaScript
 
 <strong>Backend</strong><br>
 Node.js • Express.js • Python (Basic)
+
 </p>
 
 ---
