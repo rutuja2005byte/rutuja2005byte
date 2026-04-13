@@ -1,29 +1,58 @@
-# 🌸 Rutuja
+<h1 align="center">Rutuja</h1>
+<p align="center">
+  Web Developer • Clean UI • Problem Solver
+</p>
 
-Welcome to my GitHub profile! I am a web developer who enjoys building clean, efficient, and user-friendly web applications.
-
----
-
-### Skills & Technologies
-
-**Frontend:**
-* HTML
-* CSS
-* JavaScript
-
-**Backend:**
-* Node.js
-* Express.js
-* Python (Basic)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
-### About Me
+## About Me
 
-I have a strong foundation in building user interfaces and bringing them to life with robust backend architectures. I love turning complex problems into simple, beautiful, and intuitive designs. I am always eager to learn new tools and improve my craft.
+I build clean, efficient, and user-friendly web applications.  
+Focused on simplicity, performance, and thoughtful design.
+
+I enjoy turning complex ideas into intuitive digital experiences  
+while continuously improving my skills.
 
 ---
 
-### Let's Connect
+## Tech Stack
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out and say hi!
+<p align="center">
+
+<strong>Frontend</strong><br>
+HTML • CSS • JavaScript  
+
+<br>
+
+<strong>Backend</strong><br>
+Node.js • Express.js • Python (Basic)
+
+</p>
+
+---
+
+## Work Approach
+
+- Clean and maintainable code  
+- Responsive and modern interfaces  
+- Strong focus on user experience  
+- Continuous learning mindset  
+
+---
+
+## Connect
+
+<p align="center">
+Open to collaborations, projects, and ideas.<br>
+Feel free to reach out.
+</p>
+
+---
+
+<p align="center">
+  Consistency over perfection
+</p>
