@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/bSF5v.gif" width="400" />
+  <img src="https://tenor.com/en-GB/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487" width="400" />
 </p>
 
 ---
