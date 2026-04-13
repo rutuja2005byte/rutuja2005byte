@@ -1,10 +1,10 @@
-<h1 align="center">Rutuja</h1>
+<h1 align="center">🌸 Rutuja</h1>
 <p align="center">
-  Web Developer • Clean UI • Problem Solver
+  Web Developer • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/bSF5v.gif)" width="400" />
 </p>
 
 ---
@@ -30,7 +30,6 @@ HTML • CSS • JavaScript
 
 <strong>Backend</strong><br>
 Node.js • Express.js • Python (Basic)
-
 </p>
 
 ---
