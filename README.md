@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487" width="400" />
+  <div class="tenor-gif-embed" data-postid="25385487" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">Programming Computer Frog GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ---
