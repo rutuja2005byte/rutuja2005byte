@@ -42,3 +42,4 @@ I'm a Full-Stack Developer passionate about building modern web applications and
     <img src="https://img.shields.io/badge/GitHub-rutuja2005byte-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer"/>
