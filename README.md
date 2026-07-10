@@ -5,7 +5,7 @@
 
 ### About
 
-I'm a Full-Stack Developer passionate about building modern web applications and creating clean, user-friendly experiences. I enjoy working across both frontend and backend while continuously exploring AI-powered applications and modern web technologies. I love learning by building real-world projects, contributing to open source, collaborating with developers, and constantly improving my skills as a software engineer.
+##I'm a Full-Stack Developer passionate about building modern web applications and creating clean, user-friendly experiences. I enjoy working across both frontend and backend while continuously exploring AI-powered applications and modern web technologies. I love learning by building real-world projects, contributing to open source, collaborating with developers, and constantly improving my skills as a software engineer.
 
 ---
 
@@ -42,4 +42,3 @@ I'm a Full-Stack Developer passionate about building modern web applications and
     <img src="https://img.shields.io/badge/GitHub-rutuja2005byte-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer"/>
