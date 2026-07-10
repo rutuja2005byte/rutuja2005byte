@@ -5,7 +5,7 @@
 
 ### About
 
-##I'm a Full-Stack Developer passionate about building modern web applications and creating clean, user-friendly experiences. I enjoy working across both frontend and backend while continuously exploring AI-powered applications and modern web technologies. I love learning by building real-world projects, contributing to open source, collaborating with developers, and constantly improving my skills as a software engineer.
+###I'm a Full-Stack Developer passionate about building modern web applications and creating clean, user-friendly experiences. I enjoy working across both frontend and backend while continuously exploring AI-powered applications and modern web technologies. I love learning by building real-world projects, contributing to open source, collaborating with developers, and constantly improving my skills as a software engineer.
 
 ---
 
