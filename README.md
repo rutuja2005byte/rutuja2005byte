@@ -21,6 +21,7 @@
 | **Frontend** | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | PostgreSQL, MongoDB, Supabase, SQL |
+| **Devops**| Docker, CI/CD, Jenkins, Github Actions, Nginx, Yaml |
 | **AI & Modern Web** | OpenAI APIs, AI-assisted Development, Prompt Engineering |
 | **Programming Languages** | JavaScript, TypeScript, C++, SQL |
 | **Tools & Version Control** | Git, GitHub, VS Code, Postman, Figma |
