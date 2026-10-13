@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutuja2005byte&theme=github-dark" />
+  ![](./profile-3d-contrib/profile-season-animate.svg)
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,mongodb,postgres,supabase,git,github,vscode,figma,linux" />
 </p>
 
