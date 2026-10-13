@@ -36,12 +36,28 @@
 
 <p align="center">
   <a href="mailto:rutujadarade2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="50" src="https://img.icons8.com/color/96/gmail-new.png" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rutuja-darade-a53ab3311">
-    <img src="https://img.shields.io/badge/LinkedIn-Rutuja_Darade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="50" src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rutuja2005byte">
-    <img src="https://img.shields.io/badge/GitHub-rutuja2005byte-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="50" src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rutujadarade.vercel.app">
+    <img width="50" height="50" alt="Portfolio" src="https://dummyimage.com/96x96/000/fff.png&text=R" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:rutujadarade2005@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/rutuja-darade-a53ab3311">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/rutuja2005byte">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://rutujadarade.vercel.app">Portfolio</a>
 </p>
