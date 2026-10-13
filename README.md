@@ -10,7 +10,9 @@
 ---
 
 <p align="center">
-  ![](./profile-3d-contrib/profile-season-animate.svg)
+<p align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="GitHub Profile 3D Contribution Graph" />
+</p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,mongodb,postgres,supabase,git,github,vscode,figma,linux" />
 </p>
 
