@@ -59,5 +59,5 @@
   &nbsp;•&nbsp;
   <a href="https://github.com/rutuja2005byte">GitHub</a>
   &nbsp;•&nbsp;
-  <a href="https://rutujadarade.vercel.app">Portfolio</a>
+  <a href="https://iamrutuja.vercel.app">Portfolio</a>
 </p>
