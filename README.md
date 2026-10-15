@@ -47,7 +47,7 @@
     <img width="50" src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rutujadarade.vercel.app">
+  <a href="https://iamrutuja.vercel.app">
     <img width="50" height="50" alt="Portfolio" src="https://dummyimage.com/96x96/000/fff.png&text=R" />
   </a>
 </p>
